@@ -67,7 +67,7 @@ public class PlagiarismDetection {
         for (i = 0; i < size; i++) {
 
             /* Read in the files we want to compare, line by line */
-            file = new File(nameList.get(i));
+            file = new File("testfiles/" + nameList.get(i));
             name = file.getName();
             input = "";
 
