@@ -1,0 +1,10 @@
+Lab8B_A.java
+Lab8B_AwithSwaps.java
+Lab8B_BcopyOfA.java
+Lab8B_C.java
+Lab8B_D.java
+Lab8B_E.java
+Lab8B_F.java
+Lab8B_G.java
+Lab8B_H.java
+Lab8B_I.java
