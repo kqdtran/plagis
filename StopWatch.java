@@ -1,10 +1,10 @@
 /*
-    Copyright (c) 2005, Corey Goldberg
+  Copyright (c) 2005, Corey Goldberg
 
-    StopWatch.java is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation; either version 2 of the License, or
-    (at your option) any later version.
+  StopWatch.java is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 2 of the License, or
+  (at your option) any later version.
 */
 
 public class StopWatch {
@@ -27,7 +27,7 @@ public class StopWatch {
     public long getElapsedTime() {
         long elapsed;
         if (running) {
-             elapsed = (System.currentTimeMillis() - startTime);
+            elapsed = (System.currentTimeMillis() - startTime);
         }
         else {
             elapsed = (stopTime - startTime);
